@@ -1,5 +1,3 @@
-drop user plsql_exception_logging cascade;
-
 -- USER SQL
 CREATE USER PLSQL_EXCEPTION_LOGGING IDENTIFIED BY "oracle"  
 DEFAULT TABLESPACE "USERS"
